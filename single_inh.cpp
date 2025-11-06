@@ -12,7 +12,6 @@ public:
         cout << "I can bark!" << endl;
     }
 };
-
 int main() {
     Dog dog1;
     dog1.eat();   
